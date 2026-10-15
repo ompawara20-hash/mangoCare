@@ -1,0 +1,336 @@
+{
+  "diseases": [
+    {
+      "id": "anthracnose",
+      "name": "Anthracnose",
+      "scientific_name": "Colletotrichum gloeosporioides (Penz.)",
+      "category": "fungal",
+      "supported_model_class": "Anthracnose",
+      "plant_parts_affected": "Leaves, panicles, twigs, blossoms, and fruits (distinct foliar and postharvest fruit symptoms)",
+      "severity_level": "High",
+      "description": "Anthracnose is the most widespread and commercially damaging fungal disease affecting mango crops globally. While foliar symptoms manifest as necrotic leaf spots, latent fungal infections can later devastate developing blossoms and harvested mature fruits.",
+      "visible_symptoms": [
+        "Small, dark-brown or black angular necrotic spots on leaves",
+        "Spots enlarge and coalesce, forming large irregular dead patches",
+        "Leaf shot-hole effect where brittle center lesions drop out",
+        "Leaf curling and premature leaf drop in severe foliar outbreaks",
+        "Blossom blight causing blackening and drop of flower clusters",
+        "Sunken black lesions with salmon-pink spore masses on fruits under humid conditions"
+      ],
+      "favorable_conditions": "Frequent warm rains, high relative humidity (>95%), and temperatures between 24°C and 30°C.",
+      "prevention": [
+        "Prune dead twigs and open the tree canopy to enhance sun penetration and air circulation",
+        "Avoid overhead irrigation that splashes water and conidia between canopies",
+        "Maintain clean orchard sanitation by raking and destroying fallen diseased foliage and mummified fruit",
+        "Time copper-based preventative sprays to coincide with new leaf flushes and early flowering stages"
+      ],
+      "management_recommendations": [
+        "Sanitary pruning: cut back infected branch tips 5-10 cm into healthy wood with sterilized shears",
+        "Hot water dip treatment (48°C for 20 minutes) for harvested fruits to suppress latent postharvest anthracnose",
+        "Integrate biocontrol agents such as Bacillus subtilis or Trichoderma viride where approved locally",
+        "Consult local extension schedules for registered fungicide options (e.g., azoxystrobin or copper oxychloride)"
+      ],
+      "recommended_next_steps": [
+        "Inspect the entire orchard block to determine the extent of leaf blighting and blossom involvement",
+        "Isolate severely affected young saplings",
+        "Consult a certified local agricultural extension officer for regional spray calendars and pathogen confirmation"
+      ],
+      "expert_inspection_advised": true,
+      "references": [
+        "ICAR - Central Institute for Subtropical Horticulture (CISH) Mango Pathology Guidelines",
+        "FAO Plant Production and Protection Series: Major Mango Diseases and Postharvest Management",
+        "University of Florida IFAS Extension: Anthracnose on Mango (Publication #PP-24)"
+      ],
+      "important_limitations": "Visual foliar classification cannot ascertain whether latent systemic infection has colonized blossom panicles or unblemished developing fruit."
+    },
+    {
+      "id": "bacterial_canker",
+      "name": "Bacterial Canker / Black Spot",
+      "scientific_name": "Xanthomonas citri pv. mangiferaeindicae",
+      "category": "bacterial",
+      "supported_model_class": "Bacterial Canker",
+      "plant_parts_affected": "Leaves, petioles, tender stems, and young developing fruits",
+      "severity_level": "High",
+      "description": "Bacterial canker (also known as bacterial black spot) is a severe bacterial disease causing raised, necrotic lesions with characteristic yellowish halos on leaves, twigs, and fruits, often causing premature fruit drop and twig dieback.",
+      "visible_symptoms": [
+        "Water-soaked, angular black spots on leaves bounded by leaf veins",
+        "Distinct chlorotic yellow halos surrounding dark leaf spots",
+        "Cracking of thickened, raised leaf lesions with gummy exudate",
+        "Longitudinal black cankers oozing sap on petioles and young branches",
+        "Star-shaped cracked black cankers on developing fruits resulting in heavy fruit drop"
+      ],
+      "favorable_conditions": "Strong wind-driven rain, cyclones, stormy weather creating microscopic leaf abrasions, and temperatures around 25°C to 32°C.",
+      "prevention": [
+        "Establish windbreaks around orchard borders to minimize mechanical wind abrasion and sand-blasting injuries",
+        "Use certified disease-free rootstocks and scions for grafting",
+        "Sterilize all pruning and harvesting tools in 10% sodium hypochlorite or 70% alcohol between trees",
+        "Avoid pruning operations during wet or overcast weather"
+      ],
+      "management_recommendations": [
+        "Immediately prune and burn severely cankered twigs during dry winter or dry season",
+        "Apply protective copper-based bactericides (e.g., copper hydroxide or copper oxychloride) mixed with agricultural lime or registered bactericides",
+        "Optimize tree nutrition: balanced potassium application strengthens cell walls against bacterial penetration"
+      ],
+      "recommended_next_steps": [
+        "Check adjacent trees for telltale yellow-haloed angular leaf lesions",
+        "Halt any mechanical weeding or canopy work that might wound tree bark during wet spells",
+        "Contact agricultural plant pathology services for PCR or culture confirmation if canker spreads rapidly"
+      ],
+      "expert_inspection_advised": true,
+      "references": [
+        "EPPO Data Sheets on Quarantine Pests: Xanthomonas citri pv. mangiferaeindicae",
+        "CABI Plantwise Knowledge Bank: Mango Bacterial Canker Technical Factsheet",
+        "Australian Department of Agriculture, Fisheries and Forestry: Mango Black Spot Management"
+      ],
+      "important_limitations": "Early bacterial water-soaked flecks can visually resemble mechanical hail injury; laboratory culture is required for definitive pathovar determination."
+    },
+    {
+      "id": "cutting_weevil",
+      "name": "Cutting Weevil Damage",
+      "scientific_name": "Deporaus marginatus (Pascoe)",
+      "category": "pest",
+      "supported_model_class": "Cutting Weevil",
+      "plant_parts_affected": "Tender new leaves and emerging flush shoots",
+      "severity_level": "Moderate",
+      "description": "The mango leaf-cutting weevil is a destructive curculionid beetle pest. Female weevils lay eggs near the midrib of newly emerged tender leaves and subsequently sever the leaf blade cleanly across, causing truncated leaves.",
+      "visible_symptoms": [
+        "Freshly emerged leaves cut cleanly across the blade, appearing clipped by scissors",
+        "Wilting severed leaf halves littering the ground beneath the tree canopy",
+        "Stumped remnants of cut leaves hanging on branch tips with blackened margins",
+        "Small, tiny puncture marks where females oviposited along the midrib",
+        "Stunted vegetative flushes and suppressed flush growth in nursery seedlings"
+      ],
+      "favorable_conditions": "Flushing cycles during post-monsoon and early spring when abundant succulent tender leaves are available.",
+      "prevention": [
+        "Collect and destroy (burn or compost deeply) all fallen severed leaf blades containing weevil eggs and larvae",
+        "Light ploughing or tilling of the tree basin in winter to expose pupating larvae to predatory birds and sun desiccation",
+        "Monitor young leaf flushes closely during peak vegetative growth periods"
+      ],
+      "management_recommendations": [
+        "Apply neem seed kernel extract (NSKE 5%) or azadirachtin as a deterrent during initial leaf flush emergence",
+        "Encourage biological predators including entomopathogenic nematodes and weaver ants (Oecophylla smaragdina)",
+        "If infestation exceeds economic threshold in young orchards, consult local IPM recommendations for targeted sprays"
+      ],
+      "recommended_next_steps": [
+        "Rake and safely destroy all fallen cut leaves immediately from the orchard floor",
+        "Inspect upcoming flush buds for adult weevil feeding activity",
+        "Record flush timing to schedule preventative bio-pesticide deterrence next season"
+      ],
+      "expert_inspection_advised": false,
+      "references": [
+        "ICAR-CISH Technical Bulletin on Insect Pests of Mango and Their Management",
+        "Agricultural Entomological Society: Deporaus marginatus Life History and Control",
+        "Tamil Nadu Agricultural University (TNAU) Agritech Portal: Mango Leaf Weevil"
+      ],
+      "important_limitations": "Physical leaf damage from high winds, hail, or mechanical equipment can mimic cutting damage if severed edges become weathered."
+    },
+    {
+      "id": "die_back",
+      "name": "Die Back / Branch Canker",
+      "scientific_name": "Lasiodiplodia theobromae (syn. Botryodiplodia theobromae)",
+      "category": "fungal",
+      "supported_model_class": "Die Back",
+      "plant_parts_affected": "Twigs, main branches, vascular trunk tissue, and stem-end of fruits",
+      "severity_level": "High",
+      "description": "Die Back is a vascular fungal wilt and decline syndrome that progresses basipetally (from branch tips downwards toward the trunk). The leaves turn brown, roll upwards, and dry out while remaining attached to dead twigs, leading to significant limb loss.",
+      "visible_symptoms": [
+        "Discoloration and darkening of green twigs starting from the apex downwards",
+        "Leaves wither, turn dull brown, roll upwards, and remain tenaciously attached without falling",
+        "Gum exudation (gummosis) oozing from infected bark margins",
+        "Internal vascular browning when infected twigs are sliced open longitudinally",
+        "Progressive dieback of larger scaffold limbs, leading to partial canopy collapse"
+      ],
+      "favorable_conditions": "High temperatures (above 30°C), atmospheric drought, water stress, soil compaction, and prior sunscald or borer injury.",
+      "prevention": [
+        "Maintain adequate irrigation during dry summer months to prevent tree stress",
+        "Protect exposed scaffold limbs from sunscald using white lime or Bordeaux paste wash",
+        "Prevent trunk borer and scale insect attacks which create infection entry courts",
+        "Avoid deep root pruning or severe root zone disturbances during cultivation"
+      ],
+      "management_recommendations": [
+        "Prune diseased shoots at least 10-15 cm below the discolored wood boundary into healthy tissue",
+        "Immediately seal pruning cut surfaces with Bordeaux paste, copper oxychloride paste, or grafting wax",
+        "Disinfect pruning saws between consecutive cuts",
+        "Foliar and bark drench with systemic fungicides (e.g., thiophanate-methyl or carbendazim) as per regional guidelines"
+      ],
+      "recommended_next_steps": [
+        "Perform sanitary pruning of all dead twigs during dry weather",
+        "Check tree trunk and scaffold limbs for gummosis and stem borer holes",
+        "Engage an arborist or agronomist if dieback extends into the main trunk"
+      ],
+      "expert_inspection_advised": true,
+      "references": [
+        "ICAR-Central Institute for Subtropical Horticulture: Guidelines for Mango Dieback Control",
+        "APS Plant Disease: Lasiodiplodia theobromae Associated with Stem Canker and Dieback of Mango",
+        "FAO Compendium of Tropical Fruit Crop Pathologies"
+      ],
+      "important_limitations": "Vascular dieback symptoms can be confounded with severe drought stress, root rot (Phytophthora), or stem-borer girdling without examining internal vascular staining."
+    },
+    {
+      "id": "gall_midge",
+      "name": "Gall Midge Infestation",
+      "scientific_name": "Procontarinia matteiana (Kieffer & Cecconi)",
+      "category": "pest",
+      "supported_model_class": "Gall Midge",
+      "plant_parts_affected": "Leaves, tender shoots, and young inflorescence axes",
+      "severity_level": "Moderate",
+      "description": "The mango gall midge is a cecidomyiid dipteran fly whose larvae feed within leaf tissues, stimulating abnormal gall formation. Heavy galling reduces photosynthetic surface area, induces leaf distortion, and weakens young trees.",
+      "visible_symptoms": [
+        "Small, wart-like or cone-shaped raised galls (1-3 mm) on leaf blades",
+        "Galls initially appear yellowish-green, turning reddish-brown, and finally black with age",
+        "Tiny exit holes visible on the underside of old galls where adult midges emerged",
+        "Severe leaf distortion, curling, and premature drying in heavily infested flushes",
+        "Weakened vegetative flushes with reduced bloom potential in following season"
+      ],
+      "favorable_conditions": "High humidity, overcast weather, and synchronized vegetative flushing in spring and autumn.",
+      "prevention": [
+        "Deep raking or light tilling around the drip-line to expose overwintering pupae to sunlight and natural predators",
+        "Prune lower canopy suckers and overcrowded branches to lower canopy humidity",
+        "Monitor newly emerging leaf flushes with yellow sticky traps"
+      ],
+      "management_recommendations": [
+        "Prune off heavily galled twigs during annual postharvest pruning and safely incinerate",
+        "Conserve natural hymenopteran parasitoids (e.g., Platygaster spp. and Tetrastichus spp.) by avoiding non-target broad-spectrum sprays",
+        "Apply targeted biorational sprays (such as neem oil 3%) when midge adults begin egg-laying on newly emerging flush"
+      ],
+      "recommended_next_steps": [
+        "Check underside of galled leaves for exit holes to determine if adults have already emerged",
+        "Schedule orchard floor cultivation beneath affected trees",
+        "Deploy yellow sticky cards to track adult population spikes"
+      ],
+      "expert_inspection_advised": false,
+      "references": [
+        "CAB International: Procontarinia matteiana (Mango Gall Midge) Distribution and Impact",
+        "Journal of Agricultural Science: Biology and Management of Cecidomyiid Pests in Mangifera indica",
+        "ICAR Technical Handbook on Fruit Crop Protection"
+      ],
+      "important_limitations": "Mature spent galls may persist on leaves for multiple seasons after the insect has departed; presence of galls does not always denote an active infestation."
+    },
+    {
+      "id": "healthy",
+      "name": "Healthy Foliage",
+      "scientific_name": "Mangifera indica L.",
+      "category": "healthy",
+      "supported_model_class": "Healthy",
+      "plant_parts_affected": "Vegetative canopy and leaf blades",
+      "severity_level": "None",
+      "description": "The specimen exhibits vibrant, normal foliar characteristics consistent with vigorous mango plant tissue. No obvious visual lesions, fungal coatings, bacterial cankers, or typical insect galls are detected in the analyzed frame.",
+      "visible_symptoms": [
+        "Uniform rich green color across the lamina (or characteristic reddish-copper in tender young flushes)",
+        "Smooth leaf blade margins without tears, ragged cuts, or necrosis",
+        "Clear, unblemished leaf veins with no water-soaking or yellow halos",
+        "Absence of powdery mildew, black velvety moulds, or necrotic brown spot lesions",
+        "Firm, glossy turgid leaf texture"
+      ],
+      "favorable_conditions": "Balanced soil fertility, appropriate soil drainage, regular sunlight, and proper orchard canopy ventilation.",
+      "prevention": [
+        "Continue routine orchard monitoring and scouting for early pest/disease incursions",
+        "Maintain balanced fertilization with compost, nitrogen, phosphorus, potassium, and micronutrients (zinc, boron)",
+        "Adopt drip irrigation or basin irrigation rather than overhead sprinkling",
+        "Follow seasonal hygiene and sanitation practices"
+      ],
+      "management_recommendations": [
+        "No remedial or chemical intervention is needed at this time",
+        "Preserve beneficial predator insect populations in the canopy",
+        "Record seasonal flush patterns and keep periodic digital health records"
+      ],
+      "recommended_next_steps": [
+        "Continue standard cultural care and periodic inspections",
+        "Re-evaluate if unusual discoloration or spotting develops after rainy spells",
+        "Review seasonal preventative spray guidelines as blossom emergence nears"
+      ],
+      "expert_inspection_advised": false,
+      "references": [
+        "FAO Mango Good Agricultural Practices (GAP) Manual",
+        "ICAR-CISH Standard Mango Cultivation Handbook",
+        "UC Davis Fruit and Nut Research and Information Center: Mango Care"
+      ],
+      "important_limitations": "A healthy visual assessment reflects only the photographed leaf surface. It cannot rule out latent root pathogens (e.g., Phytophthora), sub-clinical viral diseases, or internal fruit disorders."
+    },
+    {
+      "id": "powdery_mildew",
+      "name": "Powdery Mildew",
+      "scientific_name": "Oidium mangiferae (Berthet)",
+      "category": "fungal",
+      "supported_model_class": "Powdery Mildew",
+      "plant_parts_affected": "Inflorescence panicles, flower blossoms, tender leaves, and young developing fruitlets",
+      "severity_level": "High",
+      "description": "Powdery Mildew is an obligate parasitic fungal disease of paramount economic importance during flowering. The fungus produces a superficial white or grayish powdery efflorescence over floral and foliar tissues, preventing pollination and causing catastrophic fruit drop.",
+      "visible_symptoms": [
+        "White to grayish powdery coating resembling talcum powder on leaves and panicles",
+        "Powdery patches along the leaf midrib and main veins on either surface",
+        "Purplish-brown discolored lesions beneath the powdery fungal growth",
+        "Leaf distortion, curling, and brittleness in young infected leaves",
+        "Complete blighting of floral panicles, causing flowers to drop before fruit set",
+        "Premature drop of infected pea-sized fruitlets with scabby fruit skins"
+      ],
+      "favorable_conditions": "Cool nights (10°C to 15°C) paired with warm dry days (25°C to 30°C) and morning mists or high atmospheric humidity during flowering.",
+      "prevention": [
+        "Prune dense canopy foliage to enhance air movement and reduce microclimate humidity",
+        "Eradicate infected malformed panicles and wild host plants around the orchard",
+        "Avoid excessive nitrogen fertilization during pre-bloom flushes which produces overly tender, susceptible tissues"
+      ],
+      "management_recommendations": [
+        "Apply wettable sulfur sprays (0.2%) during early bloom emergence as a standard preventative treatment",
+        "Employ systemic triazole fungicides (such as hexaconazole, penconazole, or myclobutanil) if mildew symptoms appear on emerging blossom panicles",
+        "Rotate fungicide chemical classes with different FRAC modes of action to prevent fungal resistance development",
+        "Spray in the early morning or evening to avoid pollinator disruption and sulfur phytotoxicity under high temperatures"
+      ],
+      "recommended_next_steps": [
+        "Immediately inspect flower panicles across all trees for powdery fungal dust",
+        "Check regional agricultural alerts for bloom-stage powdery mildew warnings",
+        "Contact local extension advisors for weather-based fungicide spray schedules"
+      ],
+      "expert_inspection_advised": true,
+      "references": [
+        "APS Plant Disease: Biology and Epidemiology of Mango Powdery Mildew",
+        "ICAR-CISH Technical Bulletin: Powdery Mildew Management in Subtropical Mango Orchards",
+        "CABI Crop Protection Compendium: Oidium mangiferae datasheet"
+      ],
+      "important_limitations": "White residues from agricultural chemical sprays, dust, or mealybug secretions can superficially resemble powdery mildew to the untrained eye."
+    },
+    {
+      "id": "sooty_mould",
+      "name": "Sooty Mould",
+      "scientific_name": "Meliola mangiferae (Earle) / Capnodium mangiferae",
+      "category": "fungal",
+      "supported_model_class": "Sooty Mould",
+      "plant_parts_affected": "Leaf surfaces, green twigs, and fruit peel",
+      "severity_level": "Moderate",
+      "description": "Sooty Mould is a non-parasitic superficial fungus that grows purely saprophytically on sticky honeydew excretions produced by sap-sucking insects (such as mango hoppers, scale insects, and mealybugs). It creates a dark velvety black crust that impairs photosynthesis.",
+      "visible_symptoms": [
+        "Dense, continuous black velvety film or charcoal-like crust coating the upper leaf surface",
+        "The black coating can often be rubbed or peeled off, revealing intact green tissue underneath",
+        "Presence of sticky, glistening honeydew droplets on adjacent foliage and twigs",
+        "Active presence of insect vectors (leafhoppers, soft scales, whiteflies, aphids) on the canopy",
+        "Reduced tree vigor and yellowing under chronic extensive leaf coverage",
+        "Black disfigurement on fruit peel downgrading market value"
+      ],
+      "favorable_conditions": "Heavy infestations of honeydew-excreting insects, humid weather, and neglected shaded canopies.",
+      "prevention": [
+        "Control sucking insect populations (especially Idioscopus hopper species) before honeydew accumulates",
+        "Prune inner cross-branches to allow sunlight and wind to dry out the canopy interior",
+        "Conserve insect predators like ladybird beetles, lacewings, and parasitic wasps",
+        "Avoid excessive nitrogen that triggers lush tender vegetative growth attractive to sucking pests"
+      ],
+      "management_recommendations": [
+        "Spray dilute starch solution (1 kg maida / starch in 50 liters water) on leaves; when it dries into flakes, the black mould peels off harmlessly",
+        "Apply horticultural mineral oils or potassium soap to soften and wash off the honeydew crust",
+        "Treat the underlying insect vectors using registered selective insecticides or neem formulation (azadirachtin)",
+        "Power-wash foliage with clean water jets on small garden trees to remove honeydew residues"
+      ],
+      "recommended_next_steps": [
+        "Inspect the underside of leaves and branch crotches for hoppers, scale insects, or mealybugs",
+        "Treat the insect vectors rather than spraying aggressive fungicides, as the mould is non-parasitic",
+        "Apply starch wash or horticultural soap during clear sunny weather to clear the leaf surface"
+      ],
+      "expert_inspection_advised": false,
+      "references": [
+        "ICAR-Central Institute for Subtropical Horticulture: Integrated Management of Mango Hoppers and Sooty Mould",
+        "University of Hawaii Cooperative Extension Service: Sooty Mold on Tropical Foliage",
+        "Florida Department of Agriculture and Consumer Services: Sooty Molds Factsheet"
+      ],
+      "important_limitations": "Sooty mould is a secondary symptom of an active insect infestation; treating the mould without controlling the sap-sucking pests will result in prompt recurrence."
+    }
+  ]
+}
